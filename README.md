@@ -8,7 +8,7 @@
 
 ## 🎨 About Me
 - 🌍 **Hometown**: Labbugama, Haltoota, Sri Lanka  
-- 🎓 **Education**: BSc (Hons) Software Engineering, Birmingham City University (Expected 2022)  
+- 🎓 **Education**: BSc (Hons) Software Engineering, Birmingham City University (Expected 2025)  
 - 💻 **Passions**: Web Development, IoT, and Cutting-Edge Tech  
 - 📧 **Email**: [nethmayasith2010@gmail.com](mailto:nethmayasith2010@gmail.com)  
 - 📱 **Phone**: (0724 820 0455)  
