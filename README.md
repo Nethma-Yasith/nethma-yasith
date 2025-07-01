@@ -70,15 +70,15 @@ motto: "Passionate about delivering practical software solutions! 💡"
 
 ---
 
-### 🎮 Unity 2D Games
+### 🎮 Unity 3D Games
 <div align="center">
   <img src="your-game-gif.gif" alt="Unity Game Demo" width="500"/>
 </div>
 
-**Tech Stack:** Unity Engine • C# • 2D Graphics[1]  
+**Tech Stack:** Unity Engine • C# • 3D Graphics[1]  
 **Development:** Using Sinhala resources and YouTube tutorials[1]  
 **Features:**
-- Interactive 2D gameplay mechanics
+- Interactive 3D gameplay mechanics
 - Physics-based game systems
 - Cross-platform deployment capabilities
 
@@ -142,7 +142,7 @@ motto: "Passionate about delivering practical software solutions! 💡"
 🎮 Unity Hub
 ├── Unity 2022.3 LTS
 ├── C# Development
-└── 2D Game Development
+└── 3D Game Development
 
 
 ### **Database Development**
@@ -165,7 +165,7 @@ motto: "Passionate about delivering practical software solutions! 💡"
 
 ### **Core Competencies**
 - **Full-Stack Development:** React + Laravel ecosystem
-- **Game Development:** Unity 2D games with C#[1]
+- **Game Development:** Unity 3D games with C#[1]
 - **Database Engineering:** MySQL, JDBC, ACID compliance[3]
 - **Mobile Development:** React Native & Android
 - **IoT Development:** Arduino-based projects
