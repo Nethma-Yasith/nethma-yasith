@@ -27,8 +27,10 @@ motto: "Passionate about delivering practical software solutions! 💡"
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,cs,react,laravel,unity,html,css,bootstrap,mysql,firebase,git,github,vscode,idea,androidstudio,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,cs,react,laravel,unity,html,css,bootstrap,mysql,firebase,git,github,vscode,idea,androidstudio,arduino,googlemaps" alt="Tech Stack Icons" />
 </div>
+
+
 
 ### **Development Environment**
 - **Primary IDEs:** Visual Studio Code, IntelliJ IDEA[2]
