@@ -10,7 +10,7 @@
 
 const nethmaYasith = {
 name: "N.K Nethma Yasith De Silva",
-location: "Sri Lanka 🇱🇰",
+location: "Sri Lanka  🇱🇰",
 education: "BSc (Hons) Software Engineering @ Birmingham City University",
 expectedGraduation: "2025",
 currentFocus: ["Full-Stack Development", "Game Development", "Mobile Apps", "IoT"],
